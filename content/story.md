@@ -1,0 +1,479 @@
+# Les Chroniques de Ragnard le Barbare
+
+## Gros épée, grande magie pis trop de bière au village (Chapitre 1 des aventures de Ragnard le Barbare pis Dame Lysandre)
+Y’était une fois, dans le royaume un peu pété de Kroustalie-du-Nord, un gros barbare nommé Ragnard Brise-Tête, plus large que deux bœufs pis demi, avec une barbe pleine de miettes de sanglier.
+Toujours torse nu, même en hiver. Toujours avec sa grosse épée à deux mains qu’il a appelée Tranche-Pépère, parce qu’il l’a testée sur un vieux bandit qui voulait juste lui voler un melon.
+À ses côtés, y’avait Dame Lysandre, une magicienne chic, délicate, toujours bien mise avec des robes en soie, du parfum de rose noire, pis des manières de duchesse. Mais elle connaît les blagues de pet, elle rit quand Ragnard rote des runes, pis elle lance des boules de feu comme d’autres versent du vin.
+Ensemble, ils forment un duo redoutable : Ragnard fracasse, Lysandre fait flamber.
+Chapitre 1 : Le Village de Pissefontaine pis le démon du puits
+Un beau matin (ou p’têt un mardi, personne s’en souvient), les deux débarquent au village de Pissefontaine, où la bière goûte le savon pis les poules ont l’air fâchées en permanence.
+La mairesse les accueille avec une face d’enterrement :
+— Y’a un démon dans l’puits. Y fait peur aux enfants pis il rote du feu. On a essayé l’exorcisme pis même un grand-père armé d’un balai. Rien à faire.
+Ragnard craque ses jointures.
+— C’est ben simple. On l’tire par les cornes, on lui crisse une volée, pis on r’boit de la bière après.
+Lysandre sourit poliment.
+— Oui. Mais d’abord, on l’observe. Peut-être que ce démon a une faiblesse... ou un point faible astrologique. Les gémeaux sont très sensibles aux insultes, tu sais.
+Ils s’approchent du puits. Une odeur de souffre monte. Pis soudain, une voix rauque sort des profondeurs :
+— QUI OSE DÉRANGER MOOOIIII…?
+Ragnard, sans réfléchir :
+— C’est Ragnard pis sa chummy Lysandre ! On vient t’fouetter la face avec de l’amour pis du métal !
+Lysandre lève les yeux, puis sort un parchemin doré.
+— Nous sommes venus te purifier, démon. Prépare-toi à la chaleur de la justice. Et de ma magie, qui sent la lavande.
+BOUM. Le démon jaillit du puits. Il est immense, cornu, suant la haine et le fromage.
+Le combat commence.
+Ragnard bondit, hurle comme un ours, lui coupe une corne. Le démon riposte, lance des flammes.
+Lysandre encante, esquive, fait apparaître une illusion : le démon voit sa mère en train de tricoter un chandail mauve. Il hésite. C’est le moment.
+Ragnard lui saute dessus, coup d’épée entre les deux yeux, pendant que Lysandre lui explose les entrailles avec un éclair rose bonbon.
+PUITS PURIFIÉ.
+Le soir, tout le village est en liesse. Y’a un feu, de la musique. Ragnard danse torse nu avec deux vieilles. Lysandre discute avec une chèvre très polie (ou un mage polymorphe, c’est flou).
+Puis elle rejoint Ragnard :
+— Tu sais, t’as beau être une brute, je t’apprécie. Même si tu sens le bacon froid.
+— Pis toi, malgré tes mots compliqués pis ton linge trop propre, t’es pas pire pantoute.
+Ils trinquent.
+Une amitié scellée par le sang, la magie, pis la bière douteuse de Pissefontaine.
+## La taverne maudite, le concours de bras de fer pis la dague qui crie quand on la touche (Chroniques d’un duo pas comme les autres)
+Après avoir sauvé Pissefontaine du démon-rotteur, nos deux héros reprennent la route, le sac plein de pièces en cuivre, de fromage trop fort pis d’histoires à moitié vraies.
+Direction : Crânehameau, un bled où les tavernes poussent plus vite que les dents de gobelins.
+Ragnard a entendu parler d’un concours de bras de fer légendaire, avec à la clé : – Un tonneau de bière enchantée – Une dague magique à lames multiples – Pis l’estime d’un vieux roi édenté qui pète sur commande
+Lysandre, elle, veut surtout étudier la fameuse dague… car selon une rumeur :
+Elle crie “STI ÇA FAIT MAL” à chaque fois qu’on la touche.
+—
+Arrivés à Crânehameau, la taverne "À la Chope Enragée" les accueille avec des rires gras, des tabourets qui volent pis une ambiance de fin de monde joyeuse.
+Ragnard pousse la porte d’un coup d’épaule.
+— ON EST LÀ POUR GAGNER, CRISSE DE TABLE !
+Un silence. Puis un ogre se lève, l’air pas content. Puis il voit Ragnard. Puis il se rassoit, l’air pas plus content, mais prudent.
+Lysandre entre à son tour, lance un sort discret qui repousse les odeurs trop violentes (l’odeur ambiante évoquait un mélange d’ours trempé pis d’aisselle oubliée).
+— Charmant endroit, vraiment. Et dire que j’ai repassé ma robe pour ça…
+Le concours commence.
+Un par un, des bras massifs s’écroulent devant Ragnard, qui gagne avec sa technique : le “gros coup de bras pendant que tu ris”.
+Pendant ce temps, Lysandre observe les objets du prix. La fameuse dague est là, dans une vitrine en os de sanglier.
+Elle s’approche… tend la main…
+“STI ÇA FAIT MAL!!” crie la dague, toute seule, comme un gars qui s’est cogné l’orteil.
+Tout le monde se retourne.
+Lysandre, imperturbable :
+— Elle est authentique.
+Un vieux moine s’approche, tremblotant :
+— Cette dague est maudite. Chaque personne qui l’a prise a été maudite d’un spasme incontrôlable du postérieur.
+Ragnard, qui venait de gagner la finale contre un cyclope borgne, lève la tête :
+— Quoi?! Une dague qui fait péter?
+Le moine hoche la tête, très sérieux.
+— Exact. Mais elle tue aussi n’importe quoi en un seul coup. Y’a toujours un prix.
+—
+Lysandre, fascinée, sourit :
+— Parfait. Une arme fatale, bruyante, et socialement humiliante. On la prend.
+Ragnard : — J’la mets dans mon slip, ça va désensibiliser la région.
+Le moine : — Je recommande pas ça, jeune homme.
+—
+Ils quittent la taverne avec leur prix. Ragnard tient la dague à bout de bras. Elle crie. À chaque pas. Pis y’a des gens dans la rue qui se retournent, confus.
+Lysandre : — J’crois que j’t’aime encore plus quand t’as l’air con.
+Ragnard : — Pis moi, j’t’aime quand tu fais des phrases longues pendant qu’on s’fait poursuivre par une lame hystérique.
+Et dans le fond, une ombre les observe…
+Un homme en manteau noir. Un sorcier oublié. Un œil rouge qui brille.
+Il chuchote :
+Ils ont la dague… Ils n’ont aucune idée… du pet apocalyptique qu’ils ont libéré…
+## Le temple du pet sacré, l’armée des culottes enchantées pis le retour de l’ex de Lysandre (qui est un squelette romantique) (Chapitre 3 des aventures de Ragnard et Dame Lysandre)
+Quelques jours après l’épisode de la dague crieuse, Ragnard et Lysandre traversent la Forêt de la Répétition Infinie (nommée ainsi parce que tous les arbres se ressemblent pis ça gosse).
+Ragnard sacre après des branches, Lysandre lit un vieux grimoire en marchant, Pis la dague crie à chaque fois qu’elle frôle une feuille :
+— "AYOYE MAUDITE ÉRABLE!"
+Bref, c’est une ambiance zen.
+Soudain, Lysandre s’arrête. Elle lève un sourcil.
+— On approche du Temple du Pet Sacré. C’est là que la dague a été créée. Faudra être prudent.
+Ragnard regarde autour, inquiet.
+— On est-tu sûrs que c’est pas juste une vieille rumeur de moine sénile?
+La dague, dans son fourreau : — "TU VAS LE SAVOIR ASSEZ VITE, GROS TATANE!"
+—
+Arrivés au temple, ils trouvent une vieille porte en pierre couverte de runes. Lysandre les lit à voix haute :
+— “Celui qui ose ouvrir la chambre du pet sacré doit affronter l’armée des sous-vêtements damnés.”
+Ragnard : — Ben là.
+Il ouvre la porte.
+Mauvais move.
+Des centaines de culottes enchantées surgissent de nulle part. Y’en a en cuir, en soie, des boxers flottants pis même un tanga maléfique qui attaque en criant “SÉDUCTION MORTELLE!”
+Ragnard rigole, sort son épée.
+— J’vais fesser dans l’slip toute la soirée!
+Lysandre balance des sorts, fait exploser des strings démoniaques dans une pluie d’étincelles.
+—
+Au milieu du chaos, une voix grave résonne :
+— Lysandre… mon amour éternel… tu es revenue pour moi.
+Elle se retourne, les yeux plissés.
+— Oh non. Pas lui.
+Sort des ombres : Sire Oscal l’Insatiable, un squelette bien habillé, parfumé, un brin dramatique, avec une rose entre les dents. Son bassin claque en marchant.
+— J’ai traversé la mort pour te revoir… et pour te réciter un poème…
+Il lève les bras, dramatique :
+“Même sans chair, mon cœur flamboie, Et mes os dansent rien que pour toi…”
+Ragnard, en train d’étrangler un caleçon magique :
+— C’est-tu normal que ton ex soit un Xylophone romantique?
+Lysandre soupire :
+— On s’est fréquentés dans ma phase gothique. Il était poète… pis un peu mort.
+Oscal tente de l’embrasser, mais se prend la dague crieuse entre les côtes :
+— "OSTI ÇA PIQUE!"
+Ragnard, hilare :
+— Y’a même les objets qui veulent pas de toi, le squelette.
+—
+Finalement, Lysandre lance un sort de bannissement affectif, Oscal se dissout dans un nuage de nostalgie pis de parfum cheap.
+L’armée de culottes s’effondre.
+La paix revient. Le temple s’illumine. Une inscription apparaît : “Vous avez survécu à l’ultime flatulence. Bravo.”
+—
+Retour au campement.
+Ragnard dort en ronflant comme un ours sourd. Lysandre écrit dans son grimoire.
+Puis elle regarde la dague, silencieuse (enfin).
+— J’me demande bien c’qui nous attend encore…
+Du fond du sac, un vieux rouleau magique s’ouvre tout seul. Une voix lointaine chuchote :
+"À l’est… le Château du Roi-Poisson vous attend…"
+## Le Château du Roi-Poisson, la sorcière des cauchemars pis les sandales du destin (qui couinent à chaque pas)
+ (Chapitre 4 des aventures de Ragnard et Dame Lysandre)
+Une barque. Une brume. Une odeur de sardine nerveuse.
+Nos deux héros voguent vers l’est sur la rivière Limace, guidés par un parchemin magique qui sent vaguement le poisson séché.
+Ragnard rame comme un fou furieux.
+— C’est ben long ton esti de voyage mystique. J’me suis pogné un crampillon dans l’avant-bras gauche.
+Lysandre, assise droite comme une colonne d’ivoire, consulte une carte animée. Elle soupire.
+— On cherche le Château du Roi-Poisson. Il gouverne l’Est Écailleux. Paraît qu’il détient les Sandales du Destin.
+— Pis elles font quoi ces sandales-là? demande Ragnard.
+— Elles permettent de marcher sur n’importe quoi. Lave, eau, regrets amoureux, CV mal rédigés…
+— … pis j’imagine qu’y doivent couiner ben fort.
+— Exact. Un pouvoir ancestral… ridicule, mais efficace.
+—
+Arrivés au château, ils sont accueillis par un homard en armure. Très poli.
+— Sa Majesté vous attend dans la salle du Trône Écailleux.
+Le Roi-Poisson, majestueux dans son bocal géant, trône au centre, entouré de méduses décoratives.
+— Chevaliers de la surface! Je vous offre mes sandales, mais… vous devez d’abord affronter la Sorcière des Cauchemars!
+Ragnard cligne des yeux.
+— C’est-tu la sorcière qui rentre dans ta tête pendant que tu dors pis te fait rêver que t’as oublié ton mot de passe Hotmail?
+Lysandre frissonne :
+— Pire. Elle t’oblige à revivre ton plus gros malaise d’adolescence, en boucle.
+—
+Le soir-même, dans une grotte sombre et parfumée au romarin rance, ils affrontent la sorcière.
+Elle apparaît dans une tornade de pyjamas embarrassants.
+— Entrez dans le Royaume du Rêve Inconfortable…
+Ragnard se retrouve soudain… au bal de fin d’année. En chest. Avec une coupe mulet. Pis sa mère comme cavalière.
+Il hurle.
+Lysandre, elle, revit la fois où elle a confondu “sort d’invocation” avec “sort de flatulence” devant tout le Conseil des Mages.
+La honte est puissante. Mais la vengeance l’est plus.
+—
+Ragnard crie :
+— J’ai survécu à l’armée des bobettes possédées, J’vais PAS me laisser battre par un cauchemar de secondaire quatre!
+Il frappe la sorcière avec la dague crieuse. Elle hurle. Puis explose en un nuage de copies d’examens ratés et de messages non lus.
+—
+Retour au château.
+Le Roi-Poisson, ému, leur offre les Sandales du Destin. Ragnard les enfile.
+— Couic… Couic… Couic...
+Lysandre éclate de rire.
+— T’as l’air d’un canard mythique.
+— Un canard dangereux, osti!
+—
+Ils quittent le château, les sandales aux pieds, prêts pour leur prochaine aventure.
+Mais une silhouette les observe depuis un rocher.
+Un homme masqué, vêtu de peaux de chèvre enchantées, murmure :
+Ils ont les sandales... Le monde n’est pas prêt pour le retour du Carnaval des Dieux Déchus…
+—
+## Le Carnaval des Dieux Déchus, les trompettes de la fin du monde pis le concours de lancer de chaudrons magiques (Chapitre 5 des aventures de Ragnard et Dame Lysandre)
+Ça commence dans un champ.
+Un champ immense rempli de banderoles enchantées, de lutins vendeurs de barbe à papa explosive pis d’un nain cracheur de feu qui rote des haïkus.
+Ragnard s’approche d’une estrade.
+— Ben voyons… c’est-tu un carnaval ou une hallucination collective d’elfes en manque de sommeil?
+Lysandre lit un panneau enchanté :
+— “Bienvenue au Carnaval des Dieux Déchus! Une fois par siècle, les entités oubliées sortent de leur retraite pour compétitionner en grande absurdité.”
+Un druide chauve en speedo céleste surgit.
+— Concourants! À la ligne de départ! Le Grand Lancer de Chaudron approche!
+—
+Règle numéro un : faut lancer le chaudron sans le casser. Règle numéro deux : faut qu’il atterrisse sur la tête d’un juge. Règle numéro trois : faut le faire avec panache.
+Ragnard s’échauffe les bras. Il choisit un chaudron massif gravé de runes.
+— C’lui-là me parle. Y’a une vibe de "faut pas niaiser avec moi" dedans.
+Lysandre, elle, sort un mini-chaudron à thé en porcelaine qui flotte en lévitant.
+— C’est pas la taille qui compte, c’est l’élégance.
+—
+Le concours commence.
+Un dieu déchu du nom de Spatulus le Fouettard lance un chaudron rempli de soupe cosmique. Il rate et assomme un troll végétarien.
+Un autre, Mégabonbon le Sucré, rate complètement… mais finit par faire exploser un stand de pommes en caramel. Ovation du public.
+—
+Puis vient Ragnard.
+Il hurle, prend de l’élan pis lance son chaudron comme s’il lançait une bûche bénie.
+Le chaudron fend l’air. Il vibre. Il CHANTE.
+Il atterrit droit sur la tête du juge principal : une momie sarcastique en toge. “CLANG!”
+Tout le monde applaudit.
+— OUÉÉÉÉÉÉ!
+—
+Mais Lysandre s’avance, calme, gracieuse.
+Elle murmure un sort… et son mini-chaudron fuse comme un projectile amoureux.
+Il fait trois pirouettes, traverse un cerceau en feu, rebondit sur une harpe enchantée, puis atterrit… doucement… sur le nez d’un juge.
+Un silence.
+Puis un rugissement du public. Elle a gagné.
+Ragnard est bouche bée :
+— Un hostie de p’tit chaudron de thé.
+Lysandre sourit :
+— C’est pas la force. C’est le style, mon cher barbare.
+—
+En récompense, ils reçoivent les Trompettes de la Fin du Monde.
+Elles peuvent… appeler n’importe quoi. Littéralement.
+Un dragon? Une pluie de poissons? Ta grand-mère disparue depuis 10 ans? TOOT, pis ça arrive.
+Ils en testent une.
+Ragnard souffle dedans.
+Un poney géant en feu descend du ciel en chantant du Céline Dion.
+—
+Quelqu’un les observe encore.
+Le mystérieux homme masqué, toujours en peaux de chèvre, grogne :
+— Ils ont maintenant les sandales et les trompettes… Le rituel peut commencer… Le dernier temple s’ouvrira bientôt…
+—
+## Le Dernier Temple, le secret des dieux pis la bagarre dans la bibliothèque qui chuchote (Chapitre 6 des aventures de Ragnard et Dame Lysandre)
+On est dans une forêt. Une forêt qui parle.
+Mais pas fort. Chaque feuille murmure.
+— Y’a quelqu’un qui pète des runes par ici… — Chut! On a dit pas de cris magiques!
+Le trio avance : Ragnard, le barbare toujours aussi subtil qu’un coup de masse dans une porcelaine. Lysandre, classe incarnée, mais avec les nerfs d’une couleuvre quand on salit ses robes. Et Flammèche, le poney en feu qui hennit des paroles de chansons québécoises anciennes.
+— ♪ Dans l’temps qu’j’étais p’tit gars à Val-D’Or… ♪
+Ragnard siffle :
+— J’te jure, si c’te poney-là me chante du Beau Dommage pendant un combat, j’vais brailler pis frapper en même temps.
+—
+Le temple? Ben il est caché sous la Bibliothèque qui Chuchote, une bâtisse immense faite de parchemins vivants et de bibliothécaires morts-vivants super zélés.
+Pour entrer : faut poser une énigme au portier. Un squelette en complet veston, pince-nez sur le crâne.
+Lysandre tente :
+— Quel est le pluriel de "chou-fleur" en ancien elfe des marais?
+Le squelette réfléchit, bloque, puis s'effondre.
+— Accepté. Entrez.
+—
+À l’intérieur : des rayons entiers qui murmurent. Des livres qui mordent si tu lis mal. Des parchemins qui rient quand tu fais une faute.
+Mais une voix surgit.
+— Là! C’est eux! Ils ont les sandales pis la trompette!
+Un groupe de moines fanatiques, menés par un type en peaux de chèvre enchantées, surgit en criant :
+— POUR LA GRANDE OUVERTURE DU RITUEL!
+Ragnard se lève d’un bond, dégainant sa hache appelée Margot.
+— Pas aujourd’hui, les capuchons!
+La bagarre commence. Des grimoires lancent des sorts aléatoires. Un rayon transforme un moine en beigne géant. Lysandre électrocute un groupe avec un sort de foudre grammaticale. Flammèche crache une rafale de feu… en rythme avec “Gens du pays”. Un moine hurle :
+— Y’ont appelé le poney du Jugement! On est FOUTUS!
+—
+Après la baston, ils trouvent une trappe secrète.
+Ils descendent dans une salle ronde, ancienne, silencieuse… Et au centre : un miroir géant craquelé.
+Lysandre lit l’inscription :
+— “Celui qui regarde ici voit le dieu qu’il pourrait devenir… ou le monstre qu’il est déjà.”
+Ragnard s’avance. Se regarde.
+Puis éclate de rire.
+— J’vois juste moi, en plus musclé. Avec un chapeau en forme de poule. Pis un gros steak.
+Lysandre le regarde, attendrie :
+— Tu vas finir par devenir une légende. Pis probablement une statue mal sculptée dans une fontaine douteuse. Mais une légende quand même.
+Le miroir s’illumine… Et derrière, une porte ancienne s’ouvre… révélant une lumière divine.
+—
+## Le banquet des anciens, les dieux qui s’ennuient pis le combat de regards avec un ange qui a huit yeux (Chapitre 7 des aventures de Ragnard, Lysandre pis Flammèche)
+Derrière la porte, c’est pas le paradis. C’est un genre de salle à manger géante, mais version divine : plafond infini en vitraux mouvants, nappes en soie vivante, et chaises qui jugent ton posture.
+Au centre, une longue table remplie de mets célestes. Des plats qui flottent, changent de goût selon ton humeur, pis des patates qui récitent des haïkus.
+Sur les trônes : les Dieux Anciens. Majestueux. Énigmatiques. Fatigués comme des profs la veille d’un congé.
+L’un d’eux, un grand type éthéré avec des oreilles en forme de spirales, lève son verre :
+— Bienvenue, mortels… Vous avez franchi les épreuves. Pis vous avez ramené le poney en feu. J’vous dois vingt piastres, Ti-Baz.
+Un autre dieu au look de boule disco humaine répond :
+— C’est pas fin de parier sur des mortels. Encore moins quand c’est un barbare qui suce son pouce pendant son sommeil.
+Ragnard grogne :
+— J’t’ai entendu, boule de miroir céleste.
+—
+Lysandre s’avance avec classe.
+— Pourquoi nous avoir fait traverser tout ça? Les sandales qui crient, le miroir des vérités, le concours de chaudrons...
+Un dieu lève les yeux au ciel :
+— Parce qu’on s’emmerde, ma belle. Ça fait des siècles qu’on fait rien. On regarde les mortels se battre, aimer, inventer des trucs, pis nous on est coincés ici à manger des nuages frits pis à juger des gens en pantoufles dorées.
+—
+Mais soudain, tout s’assombrit. Le plafond se tord. Un silence étrange. Une ombre descend.
+C’est un ange. Mais pas n’importe lequel.
+Un ange à huit yeux, en cercle autour de sa tête, avec des ailes en plumes de chronomètre. Il se pose, lentement.
+Il regarde Ragnard. Puis Lysandre. Puis Flammèche.
+Puis, sans parler, il… fixe.
+Commence le Combat de Regards.
+Ragnard croise les bras.
+— Ok l’oiseau. J’t’ai déjà gagné un concours de stare contre un yéti en colère. T’es rien.
+L’ange fronce un sourcil (un parmi huit).
+Lysandre, elle, lève un sourcil parfait et se met à parler calmement :
+— Tu penses impressionner avec tes yeux multiples? Je lis trois livres en même temps pendant un tremblement de terre. Tu veux m’intimider? J’ai enseigné à des nobles.
+Flammèche… se met à chanter du Linda Lemay. L’ange cligne. Puis tous ses yeux pleurent un peu.
+Victoire.
+Les dieux sont sur le cul.
+Le dieu des gâteaux éternels s’approche :
+— Bon ben… vous êtes clairement pas ordinaires. Et comme on dit ici… ceux qui gagnent le regard d’un ange, ben… peuvent poser une question. Une seule. Pis on y répond.
+Ragnard regarde Lysandre.
+— On leur demande quoi? Genre… “C’est quoi le but de l’univers?” ou “Y’a-tu du bacon magique quelque part?”
+—
+À suivre : “La grande question, la trahison des brioches pis le portail de la toute fin du monde (ou du début, c’est flou)”
+## Chapitre 8 : Le tonneau, la bière qui parle pis les idées qui partent dans tous les sens (ou : Le moment où faut pas se presser trop pour une question cosmique)
+Tous les dieux écoutent, les yeux braqués, Ragnard rouvre son tonneau, se sert un verre qui fume un peu (mauvais signe ou super bon signe?), et se tourne vers Lysandre :
+— OK. On boit ça, on regarde le plafond pis on attend que ça parle, ou on pose tout d’suite une question weird qui va fâcher les demi-dieux en toge?
+Ragnard cale une grosse gorgée du tonneau magique. Ça goûte… euh… ben c’est difficile à dire. Un peu comme une bière blonde brassée avec de la lumière du matin pis un fond d’anecdote oubliée.
+Il grimace.
+— Elle pique le dedans d’la tête, celle-là.
+Lysandre, toujours élégante, hume le breuvage comme un vin rare. Elle prend une gorgée mesurée, puis lève un sourcil :
+— On dirait qu’elle parle…
+— QUOI?! fait Ragnard, qui recrache à moitié.
+— Pas “parle” comme une voix. Mais genre… t’as pas eu une p’tite idée bizarre en tête, tout d’un coup?
+Ragnard cligne des yeux.
+— Ben… ouais. J’ai pensé à une poule géante en armure qui surveille une bibliothèque volante. C’est-tu ça que t’appelles une idée?
+Lysandre soupire. — Ouin… c’est ça ouais.
+—
+Pendant qu’ils sirotent, le poney en feu, Flammèche, se couche à côté d’eux et commence à faire des bruits étranges, genre plop plap plouf. Ragnard lui donne une tape amicale :
+— C’est correct, p’tit feu-fou. C’est pas tout l’monde qui comprend l’éthylisme céleste.
+—
+Autour d’eux, les dieux les regardent, immobiles, comme s’ils attendaient le bon moment pour cligner des yeux tous en même temps.
+— Ils sont pas pressés hein, dit Ragnard.
+— Non. Pis nous non plus. On a le droit de réfléchir.
+— Pis d’être un peu pactés aussi.
+— Exactement.
+—
+Moment de philosophie.
+Ragnard, les yeux mi-clos, se met à parler lentement :
+— Mettons que la question, c’est “c’est quoi l’but de tout ça”… mais mettons que la vraie réponse, c’est “pose pas d’questions pis vis”... est-ce que ça vaut l’coup?
+Lysandre hoche la tête, pensive :
+— Ouais, c’est comme les parchemins secrets qui s’autodétruisent quand tu les lis. Parfois, t’as juste le goût de savoir c’est quoi la meilleure taverne du multivers.
+— Ou d’savoir c’est quoi le nom du gros bonhomme à huit yeux là. Lui. Là-bas.
+Ils se tournent vers l’ange aux huit yeux, qui… les fixe toujours.
+Ragnard lève sa chope :
+— Hey, toi. T’as-tu un nom, ou on t’appelle juste "le Regardeur"?
+L’ange incline la tête. Une voix douce, comme une brise de forêt un peu creepy, résonne dans leur tête :
+— Je suis... Zelephraquiel, Veilleur des Voies Multiples, Gardien du Secret Silencieux, Premier Regard et Dernier Soupir.
+Ragnard prend une autre gorgée.
+— Chu pour lui dire "OK Zèle-Frapapelle, veux-tu une bière?" Ça c’est une vraie question.
+Lysandre rit.
+— Tu sais quoi? Peut-être qu’on n’a pas besoin de réponse divine. Peut-être que poser une question niaise dans un endroit sérieux… c’est ça l’ultime victoire.
+—
+Ils se regardent, trinquent, et Ragnard lève les yeux vers les dieux :
+— Ça presse pas, mais préparez-vous. La question qu’on va vous poser… va être spéciale.
+Et pendant qu’ils rient, boivent, pis que Flammèche éternue une étincelle en forme de banane, le plafond des dieux tourne doucement au rythme de leur indécision joyeuse.
+## Chapitre 9 : Une réponse inattendue pis une entourloupette cosmique (ou : “Ben voyons donc, c’tait ÇA la question?”)
+Le silence se fait dans le temple des dieux.
+Zelephraquiel, toujours aussi hiératique, pivote d’un quart de degré avec ses huit yeux synchronisés comme un guichet automatique divin. Il prononce lentement :
+— Votre question… a été posée.
+Ragnard arrête sa gorgée à mi-parcours.
+— Hein? Quelle question?
+Un autre dieu, vêtu d’un manteau fait de brouillard pis de promesses non tenues, descend de son trône :
+— “C’est quoi ton nom, le gros avec plusieurs yeux?”… c’était votre question. Nous avons répondu. Le pacte est scellé.
+Lysandre, bouche bée, lâche un :
+— Mais c’était une question rhétorique, voyons donc!
+— Il n’existe pas de rhétorique ici, fait le dieu avec un ton de technicien de câble. — Toute question est sacrée. Et toute réponse… est finale.
+Les dieux se lèvent, tout en même temps, genre creepy chorégraphie d’opéra spatial.
+Un gong résonne.
+Un portail s’ouvre.
+Des lucioles dorées s’en échappent, une musique étrange joue, pis soudain…
+BOOM.
+Les dieux ont disparu. Le temple est vide. Le poney en feu regarde autour. Une voix dans le lointain murmure : "Merci d’avoir utilisé le service cosmique. À bientôt!"
+Ragnard regarde son tonneau vide. Lysandre fixe le portail.
+— ...Ils pensent vraiment qu’on va pas essayer de les retrouver juste parce qu’ils ont fait un coup cheap?
+— Ils m’connaissent pas pantoute, grogne Ragnard. Il pointe ses trompettes magiques.
+— Maintenant que j’sais comment l’appeler, Zelephraquiel va recevoir une bonne p’tite toune de corne dans face chaque fois que j’ai besoin de savoir où sont mes bottes ou s’il reste du bacon.
+Lysandre sourit.
+— Tu vas t’en servir à tort pis à travers.
+— Ah ben certain.
+## Chapitre 10 : Un dieu, un poney, pis pas pantoute de plan (ou : Les vacances de deux héros beaucoup trop puissants pour rien faire tranquille)
+Les bottes de Ragnard écrasent la poussière du chemin comme si elles cherchaient à intimider la route elle-même. Lysandre marche à ses côtés, les mains croisées derrière le dos, l’air paisible, presque noble… sauf pour le fait qu’elle mange une brochette de fromage fondu sur un bâton qui sent la potion ratée.
+Le poney en feu trottine devant eux, la crinière flamboyante qui éclaire le sentier même en plein jour.
+— Y’a un village pas loin, dit Lysandre. — Ils font du pain magique. Genre, tu manges ça, tu te rappelles d’un vieux souvenir heureux pis t’as envie de serrer quelqu’un dans tes bras.
+Ragnard réfléchit un peu.
+— Tsé quoi? J’vais caller Zèle-truc. Juste pour surveiller le poney pendant qu’on est à la boulangerie.
+Lysandre rigole.
+— C’est pas un peu exagéré?
+— Non non. C’est l’destin. J’me sens responsable.
+Il lève ses trompettes magiques et pousse une fanfare un peu croche, comme une chanson de réveil faite par un bouffon qui a bu trop de sirop d’érable fort.
+WAAAAAAAA-POMPOMPOMPOMMMM-TRRRRAAAAAHH!
+Un éclair. Une vibration dans l’air. Et là, debout au milieu du chemin, en pyjama d’étoiles, y’a Zelephraquiel. Les huit yeux pas tout à fait synchronisés ce coup-là.
+— Qu’est-ce que c’est, encore…?
+Ragnard lui tend une carotte.
+— Tiens, pour le poney. Tu peux le surveiller pendant qu’on va s’acheter du pain doux?
+Zelephraquiel le fixe. Longtemps. L’un de ses yeux se ferme tout seul, genre en grincant. L’autre regarde le ciel.
+— Je suis un dieu millénaire du savoir caché, pas un… un gardien de barbecue équin!
+— Ouin mais t’es là asteur, pis le poney est doux comme une fleur. C’est juste au cas où.
+—
+Le soir venu, ils dorment sous les étoiles. Le poney ronfle en créant de petites flammes arc-en-ciel.
+Ragnard se réveille, l’air bête, pis souffle un coup dans ses trompettes.
+FLORRRRAAA-BRAAAMP!
+— Hey Zèle, check donc si y’a un ogre dans l’coin. J’me sens paresseux pour scanner la forêt à l’ancienne.
+Zelephraquiel apparaît… mais là, il a amené une chaise pliante. Il s’assoit avec dignité divine.
+— Je vois que votre existence est… dynamique.
+— On appelle ça vivre pleinement, répond Lysandre en étirant les bras.
+—
+Finalement, le dieu ne repart pas. Il installe une tente céleste. Fait cuire des patates dans un feu qui ne chauffe pas. Le poney en feu l’aime bien maintenant.
+Il grogne quand Ragnard joue trop de fanfares, mais il reste. Pis au fond, ça lui fait du bien de pas être tout seul dans son temple froid.
+## Chapitre 11 : L’éveil du danger, pis l’éclat de rire cosmique (ou : “Bon ben, j’vais aller réveiller les deux flancs mous.”)
+La nuit est calme dans la clairière.
+Le feu crépite doucement, le poney en feu dort comme un petit volcan satisfait, et Ragnard ronfle en produisant des notes graves parfaitement harmonisées — une sorte de chant de gorge involontaire que même les druides de l’Est trouveraient apaisant. Lysandre, elle, dort comme une princesse, la tête appuyée sur un grimoire ouvert à la page “Sortilège de frissons sensoriels, niveau 2”.
+Zelephraquiel est assis, en tailleur, ses huit yeux ouverts, comme une veilleuse céleste. Il garde le campement, fidèle à sa nouvelle vocation de dieu de la surveillance semi-bénévole.
+Mais voilà.
+Un frisson dans l’air. Un changement subtil dans les vibrations de l’univers. Quelque chose… ou quelqu’un… approche.
+Au loin, dans la forêt, une ombre se déplace. Doucement. Trop doucement. Même les bêtes ont cessé de respirer.
+Zelephraquiel penche légèrement la tête. Un œil se contracte. Un autre se dilate. Deux fusionnent brièvement dans un effet spécial pas clair.
+Puis il sourit.
+Et… il rit.
+Un rire profond, riche, comme du tonnerre bien élevé. Un rire sincère. Un rire divin. Le poney ouvre un œil, un peu mêlé. Lysandre marmonne “c’est pas le moment de jouer avec les papillons de feu, Ragnard”.
+Mais Zelephraquiel continue de rire. Il se tient le ventre — ou ce qui pourrait vaguement lui servir de ventre — et finit par murmurer :
+— Ha haaa… Ils voulaient une aventure? Bon ben, y’en a une qui vient à eux. Et pas une petite.
+Il se lève, pose une main sur le sol. L’herbe frissonne.
+— Une créature oubliée. Un chasseur de champions. Un être qu’on bannit normalement avec sept clés et une chorale de prêtres nus. Il approche… et il a faim.
+Zelephraquiel regarde vers le campement. Puis, avec une petite étincelle moqueuse dans l’œil central :
+— Bon ben, j’vais aller réveiller les deux flancs mous.
+Il claque des doigts.
+Lysandre se redresse d’un bond, une boule de feu dans chaque main.
+Ragnard grogne :
+— Qui c’est qui a volé mon rêve de bacon volant?
+Zelephraquiel, tout sourire :
+— Je vous ai trouvé un adversaire. Un vrai. Un… défi.
+## Chapitre 12 : Le hurlement de la dague, pis le concours de “ki ki s’cherche le plus” (ou : Comment ruiner une embuscade en trois petits “Ayoye Osti”)
+La forêt dort pas. Elle attend. Le vent se glisse entre les branches comme s’il voulait pas être témoin. Pis au milieu de ça, t’as trois zouaves qui se promènent.
+Ragnard ouvre la marche, l’épaule nue, la trompette dans une main, l’autre prête à dégainer son épée “Monique”. Lysandre flotte littéralement à quelques centimètres du sol, ses cheveux luminescents par magie dansent doucement autour de sa tête.
+Et Zelephraquiel marche derrière, les bras croisés, genre père qui laisse ses enfants apprendre en se plantant.
+— On devrait être silencieux, souffle Lysandre.
+— J’suis toujours silencieux, répond Ragnard… en accrochant la dague attachée à sa ceinture.
+“CRISS DE BRANCHE!!” hurle la dague, d’une voix stridente et outrée comme un coq qui fume du poivre.
+Tout s’arrête. Les grillons crient “ah fuck” et se sauvent.
+Ragnard chuchote :
+— Shhhhhh!
+“J’t’ai dit NON, mon hostie!” qu’elle rajoute, juste avant qu’un sort de silence vienne l’étouffer.
+Zelephraquiel lève un sourcil. Même son œil de rechange cligne d’impatience.
+— Vous savez… cette dague, c’est comme amener une truie nerveuse dans une galerie d’art.
+— Elle est sensible, dit Ragnard. Pis elle a du vécu.
+Le groupe reprend son chemin.
+Mais ce qu’ils savent pas, c’est que la créature les a déjà entendus. Elle les cherche aussi. Elle sent la magie, l’odeur du poney brûlé, pis surtout… le goût du défi.
+C’est une chose longue, fine, floue. Elle se fond dans les arbres comme un rêve qui veut pas finir. Elle a des yeux qui n’aiment pas la lumière, pis un sourire qui vient pas d’une bouche normale.
+—
+Un bruit. À droite.
+Ragnard bondit et hurle :
+— Hey! J’te vois, la grande échalote puante! Viens donc m’montrer c’tes dents laides!
+Silence.
+Un bruissement, derrière. Lysandre pivote, les doigts chargés d’éclairs roses.
+— Zelephraquiel, tu le vois?
+Le dieu fronce les sourcils.
+— Il est… partout et nulle part. Comme une facture oubliée dans un vieux tiroir.
+—
+Puis, tout à coup…
+Un grognement rauque, profond, un peu mouillé. Quelque chose griffe un arbre. Et laisse une trace noire qui saigne pas.
+Lysandre s’avance, le souffle calme.
+— On s’cherche… pis on va finir par s’tomber d’dans.
+Ragnard caresse sa dague.
+Elle hurle encore.
+“Tabarnak de contact non consenti!”
+La créature fait un son. Un bruit étrange, comme un rire de gorge étranglée. Elle a compris : ce groupe est instable, bruyant, dangereux… Et intéressant.
+## Chapitre 13 : Le face-à-face, le sacre magique, pis la dague qui sauve sans faire exprès (ou : J’peux tu insulter pis frapper en même temps?)
+La clairière est trempée d’un silence moite, du genre qui colle dans le cou pis rend tout le monde nerveux sans savoir pourquoi.
+Pis là, sans prévenir…
+SCHLAK!
+Une branche explose au-dessus de Ragnard. Une patte griffue grosse comme une pelle d’ogre rate sa tête de juste un cheveu.
+— YES! crie Ragnard, l’œil brillant. Enfin un adversaire qui vise!
+La créature sort de l’ombre.
+Elle mesure au moins huit pieds, couverte d’une fourrure grise qui bouge comme de la fumée. Elle a une bouche verticale en plein milieu du torse, pis six yeux plantés n’importe où. Un genre de design de boss fait par un illustrateur trop payé.
+Lysandre cligne des yeux.
+— C’est... pas répertorié. Ça me stresse. J’aime les choses classées.
+Zelephraquiel murmure :
+— Elle s’appelle Xarak'thul la Faim Ancienne. Mais appelez-la Caro si vous êtes pressés.
+Ragnard hurle :
+— Caro, t’es laide!
+La bête gronde. Elle comprend les insultes. Et elle les digère mal.
+Elle bondit vers lui!
+Ragnard saute sur le côté, dégaine sa dague…
+“SHWIIING! Moi j’dis, 8.5 sur 10 pour l’élan.”
+La créature crie de douleur. Pas à cause de la dague, mais parce que le cri de la dague est dans une fréquence exactement insupportable pour ses tympans multidimensionnels.
+Elle recule, titube. Un œil explose. Littéralement.
+Zelephraquiel, impressionné :
+— Euh… c’était pas supposé faire ça.
+Lysandre lance un rayon de glace dans sa gueule ventrale.
+— Tiens-toé, Caro! Retourne dans ta garde-robe!
+La bête hurle. Ragnard court, saute, atterrit sur sa nuque, et avec une précision de bûcheron en pleine érablière, il plante la dague dans son oreille arrière.
+La dague crie:
+“J’devrais charger des royautés, esti!”
+La bête convulse… puis s’écroule.
+Silence. Odeur de magie rôtie. Légère fumée qui sort de son nez.
+Ragnard reste figé.
+— On l’a eue?
+Zelephraquiel hoche la tête.
+— Elle retournera dormir mille ans. Ou deux heures. On verra.
+Lysandre s’approche, prend un petit échantillon de bave.
+— Je vais appeler ça "substance Caroïde". J’vais en faire du thé, on sait jamais.
+Ragnard regarde sa dague.
+— T’sais, Ayoye, t’es peut-être un peu gossante, mais… j’t’aime ben.
+La dague répond pas. Elle a p’t’être perdu sa voix temporairement.

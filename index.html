@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Les Chroniques de Ragnard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+
+    <!-- ═══ COUVERTURE ═══ -->
+    <div id="view-cover" class="view">
+      <div class="cover-scene">
+        <div class="cover-spine"></div>
+        <div class="cover-face">
+          <div class="cover-ornament">✦ ✦ ✦</div>
+          <p class="cover-kicker">Chroniques Vivantes</p>
+          <div class="cover-inner">
+            <h1 class="cover-title" id="cover-title">Les Chroniques de Ragnard</h1>
+            <div class="cover-rule"></div>
+            <p class="cover-subtitle">le Barbare</p>
+          </div>
+          <div class="cover-sword">⚔</div>
+          <div class="cover-ornament">✦ ✦ ✦</div>
+          <button id="open-btn" type="button">Ouvrir le livre</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ LIVRE OUVERT ═══ -->
+    <div id="view-book" class="view hidden">
+      <div class="book-wrapper">
+        <div class="book-spread">
+
+          <!-- Page gauche -->
+          <div class="page page-left">
+            <div class="page-header" id="header-left"></div>
+            <div class="page-content" id="content-left"></div>
+            <div class="page-footer">
+              <span class="page-number" id="pagenum-left"></span>
+            </div>
+          </div>
+
+          <!-- Reliure -->
+          <div class="book-spine-inner"></div>
+
+          <!-- Page droite -->
+          <div class="page page-right">
+            <div class="page-header" id="header-right"></div>
+            <div class="page-content" id="content-right"></div>
+            <div class="page-footer">
+              <span class="page-number" id="pagenum-right"></span>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Navigation -->
+        <nav class="book-nav">
+          <button id="prev-btn" type="button">&#8249; Précédent</button>
+          <span id="nav-info"></span>
+          <button id="next-btn" type="button">Suivant &#8250;</button>
+        </nav>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
