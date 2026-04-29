@@ -3,7 +3,12 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Les Chroniques de Ragnard</title>
+    <title>Les Chroniques de Ragnard le Barbare</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%23200e03'/%3E%3Ctext x='50%25' y='52%25' font-size='44' text-anchor='middle' dominant-baseline='middle' fill='%23c49a24'%3E%E2%9A%94%3C/text%3E%3C/svg%3E"
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -28,48 +33,34 @@
           </div>
           <div class="cover-sword">⚔</div>
           <div class="cover-ornament">✦ ✦ ✦</div>
-          <button id="open-btn" type="button">Ouvrir le livre</button>
+          <button id="open-btn" type="button" disabled>Chargement…</button>
         </div>
       </div>
     </div>
 
-    <!-- ═══ LIVRE OUVERT ═══ -->
+    <!-- ═══ LIVRE ═══ -->
     <div id="view-book" class="view hidden">
       <div class="book-wrapper">
-        <div class="book-spread">
-
-          <!-- Page gauche -->
-          <div class="page page-left">
-            <div class="page-header" id="header-left"></div>
-            <div class="page-content" id="content-left"></div>
-            <div class="page-footer">
-              <span class="page-number" id="pagenum-left"></span>
-            </div>
-          </div>
-
-          <!-- Reliure -->
-          <div class="book-spine-inner"></div>
-
-          <!-- Page droite -->
-          <div class="page page-right">
-            <div class="page-header" id="header-right"></div>
-            <div class="page-content" id="content-right"></div>
-            <div class="page-footer">
-              <span class="page-number" id="pagenum-right"></span>
-            </div>
-          </div>
-
-        </div>
-
-        <!-- Navigation -->
+        <div id="book-flip" class="book-flip"></div>
         <nav class="book-nav">
-          <button id="prev-btn" type="button">&#8249; Précédent</button>
-          <span id="nav-info"></span>
-          <button id="next-btn" type="button">Suivant &#8250;</button>
+          <button id="prev-btn" type="button" aria-label="Page précédente">‹ Précédent</button>
+          <span id="nav-info">— / —</span>
+          <button id="next-btn" type="button" aria-label="Page suivante">Suivant ›</button>
+          <button id="close-btn" type="button" class="close-btn" aria-label="Refermer">Refermer</button>
         </nav>
       </div>
     </div>
 
+    <!-- Conteneur de mesure pour la pagination (hors-écran) -->
+    <div id="measure" aria-hidden="true">
+      <div class="page measure-page">
+        <div class="page-header"></div>
+        <div class="page-content"></div>
+        <div class="page-footer"><span class="page-number">— 0 —</span></div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

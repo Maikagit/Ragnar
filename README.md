@@ -14,7 +14,7 @@ Les aventures de Ragnard le Barbare pis Dame Lysandre — un livre web interacti
 Depuis la racine du projet:
 
 ```bash
-python3 -m http.server 8000
+python -m http.server 8000
 ```
 
 Puis ouvrir:
