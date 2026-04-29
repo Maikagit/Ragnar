@@ -13,6 +13,8 @@ const openBtn      = document.getElementById("open-btn");
 const closeBtn     = document.getElementById("close-btn");
 const prevBtn      = document.getElementById("prev-btn");
 const nextBtn      = document.getElementById("next-btn");
+const zoomInBtn    = document.getElementById("zoom-in-btn");
+const zoomOutBtn   = document.getElementById("zoom-out-btn");
 const navInfo      = document.getElementById("nav-info");
 const coverTitleEl = document.getElementById("cover-title");
 const bookFlip     = document.getElementById("book-flip");
@@ -361,6 +363,34 @@ prevBtn.addEventListener("click", () => {
 
 nextBtn.addEventListener("click", () => {
   if (pageFlip) pageFlip.flipNext();
+});
+
+// ═══════════════════════════════════════
+// ZOOM
+// Échelle visuelle uniquement (transform: scale) — la pagination interne
+// et le nombre de mots par ligne restent identiques.
+// ═══════════════════════════════════════
+const ZOOM_LEVELS = [1.0, 1.08, 1.16, 1.24, 1.32];
+let zoomIndex = 0;
+
+function applyZoom() {
+  document.documentElement.style.setProperty("--zoom", ZOOM_LEVELS[zoomIndex]);
+  zoomOutBtn.disabled = zoomIndex === 0;
+  zoomInBtn.disabled  = zoomIndex === ZOOM_LEVELS.length - 1;
+}
+
+zoomInBtn.addEventListener("click", () => {
+  if (zoomIndex < ZOOM_LEVELS.length - 1) {
+    zoomIndex++;
+    applyZoom();
+  }
+});
+
+zoomOutBtn.addEventListener("click", () => {
+  if (zoomIndex > 0) {
+    zoomIndex--;
+    applyZoom();
+  }
 });
 
 document.addEventListener("keydown", (e) => {

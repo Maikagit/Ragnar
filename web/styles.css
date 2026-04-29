@@ -16,6 +16,8 @@
 
   --page-w: 460px;
   --page-h: 680px;
+
+  --zoom: 1;
 }
 
 /* ═══════════════════════════════════════
@@ -231,6 +233,10 @@ body {
   filter:
     drop-shadow(-12px 14px 30px rgba(0,0,0,0.55))
     drop-shadow(12px 14px 30px rgba(0,0,0,0.55));
+  transform: scale(var(--zoom));
+  transform-origin: center center;
+  transition: transform 0.18s ease-out;
+  margin: calc((var(--zoom) - 1) * var(--page-h) / 2) 0;
 }
 
 /* StPageFlip applique ses propres dimensions sur .stf__block, on s'assure
@@ -480,6 +486,15 @@ body {
 
 .book-nav .close-btn:hover {
   opacity: 1;
+}
+
+.book-nav .zoom-btn {
+  font-size: 0.9rem;
+  padding: 0.35rem 0.9rem;
+  letter-spacing: 0.06em;
+  border-color: rgba(196,154,36,0.25);
+  color: rgba(255,255,255,0.7);
+  min-width: 4.5rem;
 }
 
 #nav-info {

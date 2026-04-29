@@ -1,7 +1,7 @@
 # Les Chroniques de Ragnard le Barbare
 
 ## Gros épée, grande magie pis trop de bière au village (Chapitre 1 des aventures de Ragnard le Barbare pis Dame Lysandre)
-Y’était une fois, dans le royaume un peu pété de Kroustalie-du-Nord, un gros barbare nommé Ragnard Brise-Tête, plus large que deux bœufs pis demi, avec une barbe pleine de miettes de sanglier.
+Y’était une fois, dans le royaume un peu pété de Kroustalie-du-Nord, un gros barbare nommé Ragnard Brise-Tête, plus large que deux bœufs et demi, avec une barbe pleine de miettes de sanglier.
 Toujours torse nu, même en hiver. Toujours avec sa grosse épée à deux mains qu’il a appelée Tranche-Pépère, parce qu’il l’a testée sur un vieux bandit qui voulait juste lui voler un melon.
 À ses côtés, y’avait Dame Lysandre, une magicienne chic, délicate, toujours bien mise avec des robes en soie, du parfum de rose noire, pis des manières de duchesse. Mais elle connaît les blagues de pet, elle rit quand Ragnard rote des runes, pis elle lance des boules de feu comme d’autres versent du vin.
 Ensemble, ils forment un duo redoutable : Ragnard fracasse, Lysandre fait flamber.
@@ -46,19 +46,19 @@ Lysandre entre à son tour, lance un sort discret qui repousse les odeurs trop v
 — Charmant endroit, vraiment. Et dire que j’ai repassé ma robe pour ça…
 Le concours commence.
 Un par un, des bras massifs s’écroulent devant Ragnard, qui gagne avec sa technique : le “gros coup de bras pendant que tu ris”.
-Pendant ce temps, Lysandre observe les objets du prix. La fameuse dague est là, dans une vitrine en os de sanglier.
+Pendant ce temps, Lysandre observe les objets du prix. La fameuse dague repose dans une vitrine en os de sanglier.
 Elle s’approche… tend la main…
-“Aïe. Aïe. *Aïe*. Personne te l’a dit, ma belle? Une vitrine, c’est fait pour regarder.”
-La dague parle. Toute seule. Comme un gars qui se plaint d’un courant d’air à un inconnu dans l’autobus.
+— Ayoye! Pas touche, osti ! Tu sais pas lire ou quoi ?
+La dague parle toute seule, avec le ton exact d’un vieux qui chiale après un courant d’air dans l’autobus.
 Tout le monde se retourne.
 Lysandre, imperturbable :
 — Elle est authentique.
-Un vieux moine s’approche, tremblotant :
-— Cette dague est maudite. Chaque personne qui l’a prise a été maudite d’un spasme incontrôlable du postérieur.
-Ragnard, qui venait de gagner la finale contre un cyclope borgne, lève la tête :
-— Quoi?! Une dague qui fait péter?
+Un vieux moine s’approche en tremblotant :
+— Cette dague est maudite. Tous ceux qui l’ont possédée ont été frappés d’un spasme incontrôlable du postérieur.
+Ragnard relève la tête, encore couvert du sang du cyclope :
+— Quoi ? Une dague qui fait danser le cul ?
 Le moine hoche la tête, très sérieux.
-— Exact. Mais elle tue aussi n’importe quoi en un seul coup. Y’a toujours un prix.
+— Exact. Mais elle tue n’importe quoi en un seul coup. Y’a toujours un prix.
 —
 Lysandre, fascinée, sourit :
 — Parfait. Une arme fatale, bruyante, et socialement humiliante. On la prend.
